@@ -1,15 +1,5 @@
-# CoEmbod
-CoEmbod: A Long-Horizon Benchmark for Multi-Agent Embodied Cooperation with Diverse Inter-Agent Dependencies.
-
-
 # CoEmbod: A Long-Horizon Benchmark for Multi-Agent Embodied Cooperation with Diverse Inter-Agent Dependencies
 
-
-<div align="center">
-
-[Paper](your-paper-link) | [Project Page](your-page-link)
-
-</div>
 
 
 ## Overview
